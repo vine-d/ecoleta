@@ -1,7 +1,7 @@
 ECOLETA
 =======
 
-A project that aims to help people find collection points efficiently.
+A project that aims to help people find recycling drop off locations efficiently.
 
 A marketplace for waste collection points localization =)
 
